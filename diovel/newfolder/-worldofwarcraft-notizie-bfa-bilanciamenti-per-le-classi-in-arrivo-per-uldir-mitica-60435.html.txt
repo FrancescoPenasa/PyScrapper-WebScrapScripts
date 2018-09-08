@@ -1,0 +1,53 @@
+	<div id="news-stream">
+		<ul id="newslist">
+			
+			<li class="notizia">
+				<div itemscope itemtype="http://schema.org/Article">
+					
+					<div class="immagine" id="image" style="background-image:url(http://contenuti.battlecraft.it/notizie/2018/settembre/08_y22gzgnn6eb9kttwdh9k\[1\]_1824.jpg)"></div>
+										
+					<div class="intestazione">
+						<div class="info">
+							<div class="autore left">Scritto da <span id="author" itemprop="author"><a href="/profilo/6450/" style="color: #666666;" class="username-coloured">MasterRedz</a></span>, <span itemprop="datePublished">08 settembre, 2018 10:27</div>
+														
+							<div class="clear"></div>
+						</div>
+					 							
+						<div class="titolo" id="title"><a href="" itemprop="name">BfA: bilanciamenti per le Classi in arrivo per Uldir Mitica</a></div>
+					</div>		
+					<div class="corpo">
+						<div id="text" itemprop="articleBody">
+							In previsione dell'apertura della <span style="font-weight: bold">versione Mitica di Uldir</span>, che avverrà la prossima settimana, il team di WoW ha in previsione di effettuare una <span style="font-weight: bold">nuova serie di bilanciamenti per le Classi</span> che saranno attivi a partire dalla prossima manutenzione. <br/><br/>Nella maggioranza dei casi, come potete vedere dal bluepost, si tratta di <span style="font-weight: bold">potenziamenti e nerf in percentuali fisse al danno o la cura di una specializzazione</span>, in base alle performance registrate in questa settimane di espansione. In questo giro di bilanciamenti il <span style="font-weight: bold">Ladro ne esce ancora una volta depotenziato</span>, mentre <span style="font-weight: bold">i curatori Druidi e Sciamani saranno felici di poter sostenere meglio il proprio gruppo</span>.<br/><br/><!-- blizz=087f26 --><blockquote class="blizzpost"><cite class="header"><span class="blue_quoted"><img src="http://static.battlecraft.it/blizz.gif"> <a href="" class="postlink-local" rel="nofollow" onclick="this.target='_blank';">Ornyx</a> ha scritto</span></cite><div class="body"><p>With maintenance next week, starting on Tuesday, September 11, we'll be making some targeted tuning adjustments to several specs based on how they’re performing in a variety of content. Here’s an outline of those adjustments:</p><ul><li><strong><font color='#FF7D0A'>Druid</font></strong>	<ul><li><strong>Feral</strong>		<ul><li>			<p>All damage increased by 5%.</p>			</li>		</ul></li>		<li><strong>Restoration</strong>		<ul><li>			<p>All healing increased 3%.</p>			</li>			<li>			<p>Rejuvenation mana cost reduced to 10.5% (was 11%).</p>			</li>		</ul></li>	</ul></li>	<li><strong><font color='#ABD473'>Hunter</font></strong>	<ul><li><strong>Beast Mastery</strong>		<ul><li>			<p>All damage reduced by 5%.</p>			</li>		</ul></li>	</ul></li>	<li><strong><font color='#69CCF0'>Mage</font></strong>	<ul><li><strong>Fire</strong>		<ul><li>			<p>All damage increased by 6%.</p>			</li>			<li>			<p>Flamestrike damage increased by 15%.</p>			</li>		</ul></li>	</ul></li>	<li><strong><font color='#F58CBA'>Paladin</font></strong>	<ul><li><strong>Holy</strong>		<ul><li>			<p>Holy Light and Flash of Light healing increased by 7%.</p>			</li>		</ul></li>	</ul></li>	<li><strong><font color='#FFFFFF'>Priest</font></strong>	<ul><li><strong>Discipline</strong>		<ul><li>			<p>Smite damage reduced by 9%.</p>			</li>		</ul></li>		<li><strong>Holy</strong>		<ul><li>			<p>All healing reduced by 3%.</p>			</li>		</ul></li>		<li><strong>Shadow</strong>		<ul><li>			<p>Shadow Word: Pain and Vampiric Touch damage increased by 20%.</p>			</li>		</ul></li>	</ul></li>	<li><strong><font color='#FFF569'>Rogue</font></strong>	<ul><li><strong>Outlaw</strong>		<ul><li>			<p>All damage reduced by 5%.</p>			</li>			<li>			<p>Deadshot (Azerite Trait) reduced by 20%.</p>			</li>		</ul></li>		<li><strong>Subtlety</strong>		<ul><li>			<p>All damage reduced by 5%.</p>			</li>		</ul></li>	</ul></li>	<li><strong><font color='#2459FF'>Shaman</font></strong>	<ul><li><strong>Restoration</strong>		<ul><li>			<p>Healing Rain healing increased by 12%.</p>			</li>			<li>			<p>Riptide healing increased by 6%.</p>			</li>		</ul></li>	</ul></li>	<li><strong><font color='#9482CA'>Warlock</font></strong>	<ul><li><strong>Affliction </strong>		<ul><li>			<p>Summon Darkglare damage reduced by 20%.</p>			</li>		</ul></li>		<li><strong>Demonology</strong>		<ul><li>			<p>All damage increased by 5%.</p>			</li>		</ul></li>		<li><strong>Destruction</strong>		<ul><li>			<p>All damage increased by 5%.</p>			</li>		</ul></li>	</ul></li></ul><p>We will note the final changes along with other hotfixes in the Tuesday hotfixes update added to our hotfixes blog post.</p></div></blockquote><!-- blizz=087f26 -->
+						</div>
+						<span class="clear"></span>
+					</div>
+					<meta itemprop="image" content="http://contenuti.battlecraft.it/notizie/2018/settembre/08_y22gzgnn6eb9kttwdh9k[1]_1824.jpg"/>										
+					<meta itemprop="dateCreated" content="2018-09-08T09:27:56+02:00"/>					
+					<meta itemprop="dateModified" content="2018-09-08T09:27:56+02:00"/>
+					<meta itemprop="keywords" content="videogame, game, Blizzard, news, notizie, warcraft, wow, world of warcraft, hotfix, world of warcraft, battle for azeroth, uldir, patch 8.0.1"/>					
+					<meta itemprop="thumbnailUrl" content="http://contenuti.battlecraft.it/notizie/2018/settembre/08_y22gzgnn6eb9kttwdh9k[1]_1824.jpg"/>
+				</div>
+
+				<div class="sottosezione" style="padding: 10px;">
+					<div class="legend" style="font-size: 13px; font-style: italic; margin-bottom: 10px; padding: 0 5px 5px; color: #333; border-bottom: 1px solid #BBB;">Condividi articolo</div>
+					<div class="social">
+						<div style="float: left; padding: 0 15px 0 0" class="fb-like" data-href="http://www.battlecraft.it/worldofwarcraft/notizie/bfa-bilanciamenti-per-le-classi-in-arrivo-per-uldir-mitica-60435" data-width="200" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+						<div style="float: left; padding: 0; width: 72px">
+							<div class="g-plusone" data-size="medium" data-href="http://www.battlecraft.it/worldofwarcraft/notizie/bfa-bilanciamenti-per-le-classi-in-arrivo-per-uldir-mitica-60435"></div>
+						</div>
+						<div style="float: left; padding: 0px; width: 94px;"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.battlecraft.it/worldofwarcraft/notizie/bfa-bilanciamenti-per-le-classi-in-arrivo-per-uldir-mitica-60435" data-text="BfA: bilanciamenti per le Classi in arrivo per Uldir Mitica" data-via="battlecraft" data-lang="it"></a></div>
+						<div class="clear"></div>
+					</div>
+				</div>
+
+				<div class="tagcloud">
+				
+					<span>Tag:</span>
+					<a href="/worldofwarcraft/tag/hotfix" rel="tag">hotfix</a><a href="/worldofwarcraft/tag/world-of-warcraft" rel="tag">world of warcraft</a><a href="/worldofwarcraft/tag/battle-for-azeroth" rel="tag">battle for azeroth</a><a href="/worldofwarcraft/tag/uldir" rel="tag">uldir</a><a href="/worldofwarcraft/tag/patch-8.0.1" rel="tag">patch 8.0.1</a>
+				
+				</div>
+			</li>
+			
+		</ul>
+	</div>
+

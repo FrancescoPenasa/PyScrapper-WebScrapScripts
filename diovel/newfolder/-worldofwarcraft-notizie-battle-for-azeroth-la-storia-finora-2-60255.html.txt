@@ -1,0 +1,53 @@
+	<div id="news-stream">
+		<ul id="newslist">
+			
+			<li class="notizia">
+				<div itemscope itemtype="http://schema.org/Article">
+					
+					<div class="immagine" id="image" style="background-image:url(http://contenuti.battlecraft.it/notizie/2018/agosto/23_jainas-nightmare_4727.jpg)"></div>
+										
+					<div class="intestazione">
+						<div class="info">
+							<div class="autore left">Scritto da <span id="author" itemprop="author"><a href="/profilo/7027/" style="color: #666666;" class="username-coloured">R3wu0</a></span>, <span itemprop="datePublished">26 agosto, 2018 10:48</div>
+														
+							<div class="clear"></div>
+						</div>
+					 							
+						<div class="titolo" id="title"><a href="" itemprop="name">Battle for Azeroth: la storia finora #2</a></div>
+					</div>		
+					<div class="corpo">
+						<div id="text" itemprop="articleBody">
+							Blizzard ha rilasciato la seconda parte del suo breve riassunto degli avvenimenti di <span style="font-weight: bold">Battle for Azertoh</span>. Come per il <a href="http://www.battlecraft.it/worldofwarcraft/notizie/battle-for-azeroth-la-storia-finora-1-60105" class="postlink-local">precedente articolo</a> potete trovare tutte le cinematic seguenti direttamente in gioco. Vi ricordiamo che i video presenti e quanto scritto di seguito potrebbero contenere <span style="font-weight: bold"><span style="color: #FF0000">spoiler</span></span> se non avete ancora finito le missioni a Kul Tiras e Zandalar.<br/><br/><!-- blizz=37e0bf --><blockquote class="blizzpost"><cite class="header"><span class="blue_quoted"><img src="http://static.battlecraft.it/blizz.gif"> <a href="http://worldofwarcraft.com/it-it/news/22265422" class="postlink" rel="nofollow" onclick="this.target='_blank';this.target='_blank';">Blizzard Entertainment</a> ha scritto</span></cite><div class="body"><p><strong>ATTENZIONE: SPOILER! </strong>Torna indietro se non hai ancora terminato le storie di Kul Tiras o Zandalar.</p><hr/><p>La battaglia per Azeroth continua e per chi è interessato agli ultimi sviluppi della storia, abbiamo preparato diversi filmati di gioco, tra cui l'apice degli eventi attuali di Kul Tiras e Zandalar!</p><hr/><p><strong>L'incubo di Jaina</strong></p><p>Jaina Marefiero continua a lottare con i suoi demoni interiori, soprattutto con il tradimento di suo padre, l'Ammiraglio Daelin Marefiero. Il sonno è effimero e quando arriva è popolato da incubi.</p><p><strong>Il patto di Rastakhan con Bwonsamdi</strong></p><p>Trattare con i Loa spesso comporta un prezzo. Quando Rastakhan stringe un patto con Bwonsamdi, il Loa della Morte, quale sarà questo prezzo?</p><p><strong>Il reame del tormento</strong></p><p>Jaina Marefiero ha convissuto con i suoi tormenti personali per anni, tradita e avendo tradito. Il suo percorso di redenzione non poggia solo sulle sue scelte di oggi, ma anche sul perdonare coloro che l'hanno ferita di più, compresa se stessa.</p><p><strong>Il ritorno della speranza: Kul Tiras</strong></p><p>Per gli eroi dell'Alleanza, ogni sentiero riporta a Kul Tiras. Qui, Jaina Marefiero deve riconquistare il suo retaggio e accogliere il suo ruolo di figlia del mare. Per farlo, dovrà evocare la flotta di Kul Tiras e difendere la propria antica casa.</p><p><strong>La minaccia interna: Zandalar</strong></p><p>Le minacce interne ed esterne hanno piagato gli Zandalari e il loro re, Rastakhan. Tuttavia, non c'è minaccia più pericolosa della rottura del grande sigillo di Zuldazar, che libera un antico male dalla sua prigione.</p></div></blockquote><!-- blizz=37e0bf --><br/><br/><div style="text-align: center;"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="390" src="https://www.youtube.com/embed/r7uZpHWs83s" frameborder="0" allowFullScreen></iframe></div><br/><div style="text-align: center;"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="390" src="https://www.youtube.com/embed/VeSUe4MoBXI" frameborder="0" allowFullScreen></iframe></div><br/><div style="text-align: center;"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="390" src="https://www.youtube.com/embed/Fs77Pxkx3Q4" frameborder="0" allowFullScreen></iframe></div><br/><div style="text-align: center;"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="390" src="https://www.youtube.com/embed/k88janhkOfg" frameborder="0" allowFullScreen></iframe></div><br/><div style="text-align: center;"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="390" src="https://www.youtube.com/embed/jc3PaiImoH4" frameborder="0" allowFullScreen></iframe></div>
+						</div>
+						<span class="clear"></span>
+					</div>
+					<meta itemprop="image" content="http://contenuti.battlecraft.it/notizie/2018/agosto/23_jainas-nightmare_4727.jpg"/>										
+					<meta itemprop="dateCreated" content="2018-08-26T09:48:49+02:00"/>					
+					<meta itemprop="dateModified" content="2018-08-26T09:48:49+02:00"/>
+					<meta itemprop="keywords" content="videogame, game, Blizzard, news, notizie, warcraft, wow, world of warcraft, world of warcraft lore, world of warcraft, battle for azeroth"/>					
+					<meta itemprop="thumbnailUrl" content="http://contenuti.battlecraft.it/notizie/2018/agosto/23_jainas-nightmare_4727.jpg"/>
+				</div>
+
+				<div class="sottosezione" style="padding: 10px;">
+					<div class="legend" style="font-size: 13px; font-style: italic; margin-bottom: 10px; padding: 0 5px 5px; color: #333; border-bottom: 1px solid #BBB;">Condividi articolo</div>
+					<div class="social">
+						<div style="float: left; padding: 0 15px 0 0" class="fb-like" data-href="http://www.battlecraft.it/worldofwarcraft/notizie/battle-for-azeroth-la-storia-finora-2-60255" data-width="200" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+						<div style="float: left; padding: 0; width: 72px">
+							<div class="g-plusone" data-size="medium" data-href="http://www.battlecraft.it/worldofwarcraft/notizie/battle-for-azeroth-la-storia-finora-2-60255"></div>
+						</div>
+						<div style="float: left; padding: 0px; width: 94px;"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.battlecraft.it/worldofwarcraft/notizie/battle-for-azeroth-la-storia-finora-2-60255" data-text="Battle for Azeroth: la storia finora #2" data-via="battlecraft" data-lang="it"></a></div>
+						<div class="clear"></div>
+					</div>
+				</div>
+
+				<div class="tagcloud">
+				
+					<span>Tag:</span>
+					<a href="/worldofwarcraft/tag/world-of-warcraft-lore" rel="tag">world of warcraft lore</a><a href="/worldofwarcraft/tag/world-of-warcraft" rel="tag">world of warcraft</a><a href="/worldofwarcraft/tag/battle-for-azeroth" rel="tag">battle for azeroth</a>
+				
+				</div>
+			</li>
+			
+		</ul>
+	</div>
+

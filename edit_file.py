@@ -1,18 +1,5 @@
 import os, sys
 
-fname = input("Name of the folder where to copy the files (folder must not exist): ")
-
-from_path = os.getcwd()		#actual path
-to_path = os.path.join(from_path, fname) 	#where to create folder
-os.makedirs(to_path)			#create folder
-
-for filename in os.listdir(from_path):		#trova tutt i file nella cartella
-	if (filename != fname):
-		f(to_path,filename)
-	else:
-		pass
-
-
 def f(to_path,filename):
 
 
@@ -35,11 +22,29 @@ def f(to_path,filename):
 	from_file.close()
 
 
-	to_file = open(str(os.path.join(to_path, filename))+'txt', 'w')
+	to_file = open(str(os.path.join(to_path, filename))+'.txt', 'w')
 
 	to_file.writelines(lines)
 
 	to_file.close()
 
+
+
+
+
+
+
+
+fname = input("Name of the folder where to copy the files (folder must not exist): ")
+
+from_path = os.getcwd()		#actual path
+to_path = os.path.join(from_path, fname) 	#where to create folder
+os.makedirs(to_path)			#create folder
+
+for filename in os.listdir(from_path):		#trova tutt i file nella cartella
+	if (filename == fname or filename == to_path):
+		pass
+	else:
+		f(to_path,filename)
 
 

@@ -1,0 +1,55 @@
+	<div id="news-stream">
+		<ul id="newslist">
+			
+			<li class="notizia">
+				<div itemscope itemtype="http://schema.org/Article">
+					
+					<div class="immagine" id="image" style="background-image:url(https://wow.zamimg.com/uploads/screenshots/normal/703220.jpg)"></div>
+										
+					<div class="intestazione">
+						<div class="info">
+							<div class="autore left">Scritto da <span id="author" itemprop="author"><a href="/profilo/7027/" style="color: #666666;" class="username-coloured">R3wu0</a></span>, <span itemprop="datePublished">08 settembre, 2018 09:34</div>
+														
+							<div class="clear"></div>
+						</div>
+					 							
+						<div class="titolo" id="title"><a href="" itemprop="name">WoW: i Method trasmetteranno la corsa alla World First</a></div>
+					</div>		
+					<div class="corpo">
+						<div id="text" itemprop="articleBody">
+							Tramite il loro profilo Twitter ufficiale, i <span style="font-weight: bold"><a href="https://twitter.com/Methodgg" class="postlink" rel="nofollow" onclick="this.target='_blank';">Method</a></span> hanno annunciato una piccola grande novità nel mondo del progress di World of Warcraft.<br/><br/>Per la prima volta infatti si alzerà il sipario su come una delle migliori gilde a livello mondiale affronta la corsa alla first kill. <span style="font-weight: bold">Sarà possibile seguire in diretta, attraverso punti di vista dei vari componenti della gilda, tutta la corsa verso la first kill</span>; nessuno ha mai fatto una cosa simile e permetterà agli appassionati di vedere e capire le strategie adottate da alcuni dei migliori giocatori in circolazione.<br/><br/>L'elenco degli streamer e ulteriori informazioni in merito sono disponibili sul <a href="https://www.method.gg/method-to-live-stream-mythic-uldir" class="postlink" rel="nofollow" onclick="this.target='_blank';">sito ufficiale dei Method</a><br/><br/><script type="text/javascript">function loadx(data){document.write(data.html);}</script>
+<script type="text/javascript" src="https://api.twitter.com/1/statuses/oembed.json?id=1037767814814334977&callback=loadx&align=center"></script>
+<div class='twitter' style="width: 550px" onLoad='loadx().html'/></div>
+						</div>
+						<span class="clear"></span>
+					</div>
+					<meta itemprop="image" content="https://wow.zamimg.com/uploads/screenshots/normal/703220.jpg"/>										
+					<meta itemprop="dateCreated" content="2018-09-08T08:34:19+02:00"/>					
+					<meta itemprop="dateModified" content="2018-09-08T08:34:19+02:00"/>
+					<meta itemprop="keywords" content="videogame, game, Blizzard, news, notizie, warcraft, wow, world of warcraft, world of warcraft, wowprogress, method, battle for azeroth, uldir"/>					
+					<meta itemprop="thumbnailUrl" content="https://wow.zamimg.com/uploads/screenshots/normal/703220.jpg"/>
+				</div>
+
+				<div class="sottosezione" style="padding: 10px;">
+					<div class="legend" style="font-size: 13px; font-style: italic; margin-bottom: 10px; padding: 0 5px 5px; color: #333; border-bottom: 1px solid #BBB;">Condividi articolo</div>
+					<div class="social">
+						<div style="float: left; padding: 0 15px 0 0" class="fb-like" data-href="http://www.battlecraft.it/worldofwarcraft/notizie/wow-i-method-trasmetteranno-la-corsa-alla-world-first-60431" data-width="200" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+						<div style="float: left; padding: 0; width: 72px">
+							<div class="g-plusone" data-size="medium" data-href="http://www.battlecraft.it/worldofwarcraft/notizie/wow-i-method-trasmetteranno-la-corsa-alla-world-first-60431"></div>
+						</div>
+						<div style="float: left; padding: 0px; width: 94px;"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.battlecraft.it/worldofwarcraft/notizie/wow-i-method-trasmetteranno-la-corsa-alla-world-first-60431" data-text="WoW: i Method trasmetteranno la corsa alla World First" data-via="battlecraft" data-lang="it"></a></div>
+						<div class="clear"></div>
+					</div>
+				</div>
+
+				<div class="tagcloud">
+				
+					<span>Tag:</span>
+					<a href="/worldofwarcraft/tag/world-of-warcraft" rel="tag">world of warcraft</a><a href="/worldofwarcraft/tag/wowprogress" rel="tag">wowprogress</a><a href="/worldofwarcraft/tag/method" rel="tag">method</a><a href="/worldofwarcraft/tag/battle-for-azeroth" rel="tag">battle for azeroth</a><a href="/worldofwarcraft/tag/uldir" rel="tag">uldir</a>
+				
+				</div>
+			</li>
+			
+		</ul>
+	</div>
+
