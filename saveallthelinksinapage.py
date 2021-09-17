@@ -5,7 +5,7 @@ import requests, sys, webbrowser, bs4
 
 start = input("Please the page where to start: ")
 stop = input("Please the page where to stop: ")
-link = input("Please the argument link, like this pls: http://www.battlecraft.it/worldofwarcraft/notizie \n\n:")
+link = input("Please the argument link \n\n:")
 
 print ("Donwloading the link from: " + str(link)) 
 print ("Starting from page: " + str(start) + " to " + str(stop))
